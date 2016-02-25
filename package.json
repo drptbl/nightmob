@@ -10,10 +10,10 @@
   "author": "Vikki <vikki.read@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "browsermob-proxy": "~1.0.5",
-    "webdriverjs": "~1.6.1"
+    "browsermob-proxy": "latest",
+    "webdriverjs": "latest"
   },
   "devDependencies": {
-    "nightwatch": "git://github.com/vikki/nightwatch.git"
+    "nightwatch": "latest"
   }
 }
